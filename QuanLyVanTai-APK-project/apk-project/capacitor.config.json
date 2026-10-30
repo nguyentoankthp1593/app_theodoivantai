@@ -1,0 +1,11 @@
+{
+  "appId": "com.vantai.quanly",
+  "appName": "Quản lý vận tải",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
